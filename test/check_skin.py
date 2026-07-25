@@ -151,7 +151,7 @@ def try_screens_load():
 	before = []
 	errors = []
 
-	for line in open('./data/SimpleGray-HD/skin_screens.xml', 'r').readlines():  # noqa: E501
+	for line in open('./data/SimpleGlass-HD/skin_screens.xml', 'r').readlines():  # noqa: E501
 		if '<!--before ' in line:
 			before.append(line.split('<!--before ', 1)[1].split('-->', 1)[0])
 			continue

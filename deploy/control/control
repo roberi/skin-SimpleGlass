@@ -1,9 +1,9 @@
-Package: enigma2-plugin-skins-simple-gray
+Package: enigma2-plugin-skins-simple-glass
 Version:
-Description: Simple and clean multi resolution skin SimpleGray by Taapat
+Description: A transparent and lightweight Enigma2 skin based on SimpleGray by Taapat
 Section: base
 Priority: optional
-Maintainer: Taapat
+Maintainer: roberi
 License: GPLv3
 Architecture: all
-OE: enigma2-plugin-skins-simple-gray
+OE: enigma2-plugin-skins-simple-glass
